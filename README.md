@@ -4,23 +4,23 @@ For developing the Machine Learning model Scikit-Learn module is used. The model
 For Data Visualization and Analysis Pandas,Seaborn and Matplotlib modules are used.
 The project has following list of content:
 
-1)Importing Libraries
+1) Importing Libraries
 
 Importing various libraries that are used in visualization and prediction of the dataset.
 
-2)Loading Data
+2) Loading Data
 
 Loading our churn_modelling dataset
 
-3)Data Insights
+3) Data Insights
 
 Exploration of Data For more information
 
-4)Data Visualization
+4) Data Visualization
 
 Visualization of Data acording to various parameter
 
-5)Building Prediction Model
+5) Building Prediction Model
 
 5.1) Data Preprocessing for developing model
 
@@ -32,11 +32,11 @@ Visualization of Data acording to various parameter
 
 Development and testing of different classificationb model for predicting Churn
 
-6.1)Splitting Data In Training Set and Test Set
+6.1) Splitting Data In Training Set and Test Set
 
-6.2)Feature Scaling
+6.2) Feature Scaling
 
-7) LogisticRegression
+7)  LogisticRegression
 
 7.1) Logistic Regression Model
 
